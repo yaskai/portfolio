@@ -1,8 +1,8 @@
 # Kai Yasko
 ## Game and Tools Programmer
 
-### https://yaskai-water-effect.netlify.app/
+## [Water Effect](https://yaskai-water-effect.netlify.app/)
 
-### https://verlet-demo.netlify.app/
+## [Verlet Rope Demo](https://verlet-demo.netlify.app/)
 
-### https://laser-demo.netlify.app/
+## [Reflective Laser](https://laser-demo.netlify.app/)

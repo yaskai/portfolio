@@ -1,0 +1,7 @@
+@import url("colors.css");
+
+body {
+  background-color: var(--bgd);
+  color: var(--ora);
+  font-family: Mononoki Nerd Font;
+}

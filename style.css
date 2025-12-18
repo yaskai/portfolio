@@ -1,7 +1,11 @@
 @import url("colors.css");
 
 body {
-  background-color: var(--bgd);
-  color: var(--ora);
-  font-family: Mononoki Nerd Font;
+  background-color: var(--base00);
+  color: var(--base05);
+  font-family: IBM Plex Serif, Regular;
+}
+
+a {
+	color: var(--base0C)
 }
